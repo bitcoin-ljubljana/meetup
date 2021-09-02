@@ -5,6 +5,6 @@
 
 ### specific topics
 - lightning network fundamentals
-- lightning node operations
+- lightning node operations (https://github.com/aljazceru/lightning-network-node-operator) 
 - soverign apy with ln pool
-- discreet log contracts
+- discreet log contracts (https://github.com/aljazceru/discreet-log-contracts)
