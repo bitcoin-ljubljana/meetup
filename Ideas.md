@@ -12,4 +12,5 @@
 - lightning ATM
 - lightning beer tap
 - eltoo
+- covenants: general overview, positives, negatives, possibilities etc. (https://bitcoincovenants.com/)
 
