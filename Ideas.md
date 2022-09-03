@@ -14,4 +14,4 @@
 - eltoo
 - bitcoin scripts
 - covenants: general overview, positives, negatives, possibilities etc. (https://bitcoincovenants.com/)
-- bitcoin sidechains (lightning, drivechains, spacechains, liquid etc.); their tradeoffs and differences
+- bitcoin sidechains (lightning, drivechains, spacechains, softchains, liquid etc.); their tradeoffs and differences (https://www.lopp.net/bitcoin-information/other-layers.html)
