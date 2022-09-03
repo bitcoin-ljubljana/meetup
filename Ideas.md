@@ -12,5 +12,6 @@
 - lightning ATM
 - lightning beer tap
 - eltoo
+- bitcoin scripts
 - covenants: general overview, positives, negatives, possibilities etc. (https://bitcoincovenants.com/)
 
