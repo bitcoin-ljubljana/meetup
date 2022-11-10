@@ -14,3 +14,4 @@ We will be publishing short recaps of past meetups and gathering ideas for futur
 11. [Bitcoin Ljubljana - August 2022](meetups-notes/Aug2022.md)
 12. [Bitcoin Ljubljana - September 2022](meetup-notes/Sep2022.md)
 13. [Bitcoin Ljubljana - October 2022](https://github.com/bitcoin-ljubljana/meetup/blob/main/presentations/zasebnost.md)
+14. [Bitcoin Ljubljana - November 2022](./meetup-notes/Nov2022.md)
