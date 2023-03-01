@@ -1,6 +1,13 @@
-# Home of Bitcoin Ljubljana meetup 
-We will be publishing short recaps of past meetups and gathering ideas for future ones here
-## Past meetups
+## Bitcoin Ljubljana meetup 
+If you want to be informed about new events join our [meetup.com group](https://www.meetup.com/bitcoin-ljubljana/).
+
+Bitcoin Ljubljana [telegram invite](https://t.me/+2xbb7IpoP0IyMDNk).
+
+If you want to follow us on social media - [@BitcoinLJ](https://twitter.com/BitcoinLJ), [Linkedin](https://www.linkedin.com/company/bitcoin-ljubljana/).
+
+
+
+## Past meetups recaps and links to presentations
 1. [Genesis meetup - August 2021](meetup-notes/12Aug2021.md)
 2. [Bitcoin Ljubljana - September 2021](meetup-notes/16sep2021.md)
 3. [Bitcoin Ljubljana - October 2021](meetup-notes/Oct2021.md)
