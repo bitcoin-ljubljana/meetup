@@ -1,4 +1,3 @@
-## Bitcoin Ljubljana meetup 
 If you want to be informed about new events join our [meetup.com group](https://www.meetup.com/bitcoin-ljubljana/).
 
 Bitcoin Ljubljana [telegram invite](https://t.me/+2xbb7IpoP0IyMDNk).
