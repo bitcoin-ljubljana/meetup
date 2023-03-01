@@ -4,7 +4,7 @@ Bitcoin Ljubljana [telegram invite](https://t.me/+2xbb7IpoP0IyMDNk).
 
 If you want to follow us on social media - [@BitcoinLJ](https://twitter.com/BitcoinLJ), [Linkedin](https://www.linkedin.com/company/bitcoin-ljubljana/).
 
-
+List of essential reading materials maintained by [@aaaljaz](https://twitter.com/aaaljaz) can be found at [learn.bitcoin-ljubljana.si](https://learn.bitcoin-ljubljana.si/).
 
 ## Past meetups recaps and links to presentations
 1. [Genesis meetup - August 2021](meetup-notes/12Aug2021.md)
