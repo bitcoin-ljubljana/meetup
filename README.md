@@ -1,5 +1,7 @@
 If you want to be informed about new events join our [meetup.com group](https://www.meetup.com/bitcoin-ljubljana/).
 
+If you want to support Bitcoin Ljubljana meetup you can [donate here](https://donate.bitcoin-ljubljana.si).
+
 Bitcoin Ljubljana [telegram invite](https://t.me/+2xbb7IpoP0IyMDNk).
 
 If you want to follow us on social media - [@BitcoinLJ](https://twitter.com/BitcoinLJ), [Linkedin](https://www.linkedin.com/company/bitcoin-ljubljana/).
@@ -29,3 +31,4 @@ List of essential reading materials maintained by [@aaaljaz](https://twitter.com
 20. [Bitcoin Ljubljana - May 2023 Pizza day](./meetup-notes/202305.md)
 21. [Bitcoin Ljubljana - June 2023](./meetup-notes/202306.md)
 22. [Bitcoin Ljubljana - July 2023](./meetup-notes/202307.md)
+23. [Bitcoin Ljubljana - August 2023](./meetup-notes/202308.md)
