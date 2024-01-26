@@ -34,3 +34,5 @@ List of essential reading materials maintained by [@aaaljaz](https://twitter.com
 23. [Bitcoin Ljubljana - August 2023](./meetup-notes/20230823.md)
 24. [Bitcoin Ljubljana - September 2023](./meetup-notes/202309.md)
 25. [Bitcoin Ljubljana - October 2023](./meetup-notes/202310.md)
+26. [Bitcoin Ljubljana - November 2023](./meetup-notes/202311.md)
+27. [Bitcoin Ljubljana - December 2023](./meetup-notes/202312.md)
