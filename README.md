@@ -1,7 +1,6 @@
 If you want to be informed about new events join our [meetup.com group](https://www.meetup.com/bitcoin-ljubljana/).
 
-To support Bitcoin Ljubljana meetup you can [donate here](https://donate.bitcoin-ljubljana.si). For sponsorships and other questions you can reach out to hello@bitcoin-ljubljana.si.
-
+To support Bitcoin Ljubljana meetup you can [donate here](https://bitcoin.si/donacije/). 
 Bitcoin Ljubljana [telegram invite](https://t.me/+2xbb7IpoP0IyMDNk).
 
 If you want to follow us on social media - [@BitcoinLJ](https://twitter.com/BitcoinLJ), [Linkedin](https://www.linkedin.com/company/bitcoin-ljubljana/).
